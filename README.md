@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70073&center=true&vCenter=true&width=435&lines=Welcome+To+My+Page" alt="Typing SVG">
 </p>
 
-### 🎓 I have a B.S. in computer science and an A.B in cognitive science from the University of Georgia
+### 🎓 I have a B.S. in computer science and an A.B. in cognitive science from the University of Georgia
 
 ### 👷 Currently contributing to
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleymsft/ffu) - Using Full Flash Update (FFU) files to speed up Windows deployment
